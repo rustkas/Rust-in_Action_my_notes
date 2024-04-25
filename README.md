@@ -1,2 +1,2 @@
-# Rust-in_Action_my_notes
+# Rust in Action my notes
 Variations based on code examples
