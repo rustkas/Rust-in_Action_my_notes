@@ -1,0 +1,9 @@
+workspace = { members = [ "members/ch2-add-floats", "members/ch2-complex", "members/ch2-expressions","members/ch2-first-steps", "members/ch2-for", "members/ch2-intro-to-numbers", "members/ch2-mandelbrot", "members/ch2-match-needles", "members/ch2-non-base2", "members/ch2-pointer", "members/ch2-while-true-increment", "members/ch2_float", "members/ch2_nan", "members/ch2_try_into"] }
+[package]
+name = "ch2_workspace"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
