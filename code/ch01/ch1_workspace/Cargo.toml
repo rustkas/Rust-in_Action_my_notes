@@ -1,0 +1,9 @@
+workspace = { members = ["members/ch1-animals-specialization", "members/ch1-animals-specialization2", "members/ch1-animals-tuple-structs", "members/ch1-hashmap-hashset", "members/ch1-escape-html", "members/ch1-hello2", "members/ch1-save-user-data", "members/ch1-word-counts"] }
+[package]
+name = "ch1_workspace"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
