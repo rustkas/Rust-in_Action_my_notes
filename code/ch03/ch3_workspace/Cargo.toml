@@ -1,4 +1,4 @@
-workspace = { members = ["src/members/ch2-file-results", "src/members/ch2-global-error", "src/members/ch3-adding-pub-to-file", "src/members/ch3-anystring-macro", "src/members/ch3-defining-files", "src/members/ch3-defining-files-neatly", "src/members/ch3-error-1", "src/members/ch3-file-doced", "src/members/ch3-file-states"] }
+workspace = { members = ["src/members/ch2-file-results", "src/members/ch2-global-error", "src/members/ch3-adding-pub-to-file", "src/members/ch3-anystring-macro", "src/members/ch3-defining-files", "src/members/ch3-defining-files-neatly", "src/members/ch3-error-1", "src/members/ch3-file-doced", "src/members/ch3-file-states", "src/members/ch3-files-with-modes", "src/members/ch3-implementing-display"] }
 [package]
 name = "ch3_workspace"
 version = "0.1.0"
