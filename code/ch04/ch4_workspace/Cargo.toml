@@ -1,0 +1,9 @@
+workspace = { members = ["members/ch4-absadd", "members/ch4-check-sats-1", "members/ch4-check-sats-3", "members/ch4-check-sats-clone-and-copy-traits", "members/ch4-check-sats-with-copy-trait", "members/ch4-endianness", "members/ch4-rc-groundstation", "members/ch4-rc-refcell-groundstation", "members/cubesat-1"] }
+[package]
+name = "ch4_workspace"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
