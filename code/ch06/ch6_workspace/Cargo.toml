@@ -1,0 +1,9 @@
+workspace = { members = [ "members/ch6-create-destroy-objects-in-a-heap", "members/ch6-get-address", "members/ch6-pointer-imitation", "members/ch6-print-lines", "members/ch6-print-lines2", "members/ch6-using-smart-pointers", "members/ch6-winapi"] }
+[package]
+name = "ch6_workspace"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
